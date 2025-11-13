@@ -1,4 +1,4 @@
-# Car-Detection-and-License-Plate-OCR-Pipeline
+# Car-Detection-and-License-Plate-OCR-Pipeline@pdai
 
 This project is a multi-stage pipeline implemented in a Jupyter Notebook. It processes an input video to detect cars, isolates individual cars when they are near the camera, detects their license plates, and performs Optical Character Recognition (OCR) to read the plate number. The final recognized text is then validated against Indian license plate formats.
 
